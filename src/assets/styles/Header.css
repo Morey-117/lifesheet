@@ -2,6 +2,8 @@
 header {
     border: 3px solid;
     border-radius: 10px;
+    display: flex;
+    justify-content:space-between;
     padding: 0 4px;
     background-color: orange;
     color: white;
@@ -13,7 +15,6 @@ img {
     border-style: double;
 }
 
-
 h1.name{
     display: flex;
     flex-direction: column;
@@ -23,7 +24,6 @@ h1.name{
 h1.lastname{
     display: flex;
     flex-direction: column;
+
 }
-
-
 
