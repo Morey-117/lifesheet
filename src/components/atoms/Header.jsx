@@ -12,20 +12,22 @@ function Header(){
                <h1 className="lastname">
                    Moreno Lopez
                </h1>
-
+               <i>
+                   Puesto Solicitado: Programador Jr
+               </i>
            </info>
             <contacts>
                 <h3>
                     Telefono: +52 961-299-2741
                 </h3>
                 <h3>
-                    Ubicacion:
+                    Ubicacion: Tuxtla Gtz. Chiapas, Mexico
                 </h3>
                 <h3>
-                    Correo Electronico:
+                    Correo Electronico: Morenobotazuelas40@gmail.com
                 </h3>
                 <h3>
-                    Repositorio en GitHub:
+                    Repositorio en GitHub: https://github.com/Morey-117?tab=repositories
                 </h3>
             </contacts>
         </header>
