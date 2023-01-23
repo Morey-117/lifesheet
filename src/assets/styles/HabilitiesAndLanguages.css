@@ -1,0 +1,9 @@
+.habilitiesandlanguages{
+    border: 3px solid;
+    border-radius: 10px;
+    display: flex;
+    justify-content:space-between;
+    padding: 0 4px;
+    background-color: orange;
+    color: white;
+}
