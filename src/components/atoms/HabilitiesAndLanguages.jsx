@@ -10,9 +10,9 @@ function HabilitiesAndLanguages() {
             ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
         </label>
         <habilidades>
-            <label>
+            <h3>
                 - Manejo de estres
-            </label>
+            </h3>
             <label>
                 - Facilidad para trabajar en equipo
             </label>
@@ -28,6 +28,11 @@ function HabilitiesAndLanguages() {
                 - Ingles
             </h3>
         </idiomas>
+        <software>
+            <h3>
+                Software: C++, Java, Html, CSS, JavaScript
+            </h3>
+        </software>
     </habilitiesandlanguages>
     )
 }
